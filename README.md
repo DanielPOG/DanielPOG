@@ -1,7 +1,7 @@
 # ¡Hola! Soy Daniel 👋  
 
 💻 **Apasionado por la programación y el aprendizaje continuo**  
-Soy un desarrollador en formación de 18 años con una gran motivación por aprender todo lo posible sobre programación. Actualmente, estoy estudiando desarrollo web. 🚀  
+Soy un desarrollador en formación con una gran motivación por aprender todo lo posible sobre programación. Actualmente, estoy estudiando desarrollo web. 🚀  
 
 ---
 
