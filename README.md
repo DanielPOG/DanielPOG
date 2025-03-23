@@ -8,7 +8,7 @@ Soy un desarrollador en formación con una gran motivación por aprender todo lo
 ## 🚀 Tecnologías y Herramientas  
 ### 🖥 **Desarrollo Web**  
 💡 **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind, jQuery  
-🛠 **Backend:** Django, Python, PHP, SQL  
+🛠 **Backend:** Django, Python, PHP, SQL, Node.js
 
 ### 🛢 **Bases de Datos**  
 📊 **Gestores:** MySQL, SQLite  
