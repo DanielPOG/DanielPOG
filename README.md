@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Daniel Dev Banner](A_digital_graphic_banner_showcases_the_name_"banner.png)
+![Daniel Dev Banner](banner.png)
 
 # 👋 ¡Hola! Soy **Daniel Dev**
 
